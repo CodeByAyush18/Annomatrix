@@ -48,12 +48,3 @@ Annomatrix is an intelligent real-time anomaly detection system designed to moni
 
 ---
 
-## 📦 Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/SentinelIQ.git
-cd SentinelIQ
-
-# Install dependencies
-pip install -r requirements.txt
